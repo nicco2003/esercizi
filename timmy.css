@@ -1,0 +1,91 @@
+/* header */
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size:     cover;
+}
+
+.timmy{
+  text-align: center;
+}
+.logo{
+  width: 200px;
+  position: relative;
+  top: 10px;
+  bottom: 0px;
+  margin-top: 30px;
+
+}
+/*  sotto parte main */
+.primo{
+  width: 1000px;
+  margin-auto;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  background: rgba(0,0,0, 0.6);
+  width: 1000px;
+  height: 800px;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  margin-top: 30px;
+}
+.titolo{
+  text-align: center;
+  color: green;
+  margin-top: auto;
+  margin-bottom: 0px;
+}
+.secondo{
+  border-radius: 25px;
+  background: rgba(124,252,0);
+  display: inline-block;
+  width: 800px;
+  height: 50px;
+  border-radius: 0px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  margin-bottom: 10px;
+}
+.terzo{
+  text-align: left;
+  padding-left: 100px;
+  line-height: 1em;
+}
+.quarto{
+  display: inline-block;
+  margin-bottom: 0px;
+
+}
+.sesto{
+  margin: 10px 0;
+  font-family: Comic Sans MS, Comic Sans, cursive
+}
+.separatore{
+  border: 13px solid orange;
+  border-radius: 5px;
+  width: 300px;
+  margin: 10px;
+  margin-left: 0px;
+}
+.separatore2{
+  border: 13px solid green;
+  border-radius: 5px;
+  width: 600px;
+  margin: 10px;
+  margin-left: 0px;
+}
+.separatore3{
+  border: 13px solid red;
+  border-radius: 5px;
+  width: 150px;
+  margin: 10px;
+  margin-left: 0px;
+}
+.ottavo{
+  margin-top: auto;
+}
